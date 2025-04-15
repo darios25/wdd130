@@ -148,3 +148,32 @@ form button {
 form button:hover {
     background-color: #45a049;
 }
+
+.trip {
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin: 20px 0;
+    padding: 20px;
+}
+
+.trip img {
+    width: 150px;
+    height: auto;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+
+.trip h3 {
+    font-size: 1.5em;
+    color: #4CAF50;
+    margin-bottom: 10px;
+}
+
+.trip p {
+    font-size: 1em;
+    color: #333;
+    line-height: 1.6;
+}
