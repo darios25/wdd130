@@ -129,6 +129,15 @@ footer {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+h2 {
+    color: #4CAF50;
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
 
 form input, form textarea, form button {
     width: 100%;
