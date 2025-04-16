@@ -129,7 +129,7 @@ body {
 }
 
 header, footer {
-    background-color: #4CAF50;
+    background-color: var(--primary-color);
     color: white;
     text-align: center;
     padding: 20px 0;
@@ -168,7 +168,7 @@ main {
 }
 
 h2 {
-    color: #4CAF50;
+    color: var(--primary-color);
 }
 
 form label {
