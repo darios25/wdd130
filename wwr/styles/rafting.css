@@ -139,14 +139,14 @@ form input, form textarea, form button {
 }
 
 form button {
-    background-color: orangered;
+    background-color: orange;
     color: white;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: orange;
+    background-color: orangered;
 }
 
 .trip {
